@@ -7,7 +7,7 @@ address: "West Classroom, Room 23167, Young Research Library"      # full street
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "34.0749691,-118.4436547"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
-humandate: "Jan 23, 28; Feb 4, 11"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "Jan 23, 28; Feb 4, 11, 2019"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 humantime: "5-8:30pm"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2019-01-23      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2019-02-11        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
