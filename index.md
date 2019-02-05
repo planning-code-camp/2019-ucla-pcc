@@ -236,6 +236,11 @@ eventbrite: 54246034349          # optional: alphanumeric key for Eventbrite reg
   </ul>
 </ul>
 
+<h3> Notes and Scripts</h3>
+
+<ul>
+<li> <a href="https://github.com/ucla-data-archive/ucla-swc17/blob/master/intro-r/01-intro-r-rstudio.Rmd"> Intro to R - lecture notes </a> </li>
+<li>
 
 <hr/>
 
